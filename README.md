@@ -1,6 +1,9 @@
 # VoorbeeldServletProject
 
-Uitvoeren via:
+## Uitvoeren via:
+
 main.java opstarten
-In browser:
+
+## In browser:
+
 localhost:8080/artist
